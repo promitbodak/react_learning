@@ -1,0 +1,6 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "workbench.editor.pinnedTabsOnSeparateRow": false,
+    "editor.rename.enablePreview": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true
+}
